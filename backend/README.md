@@ -16,7 +16,7 @@ This is the backend for the Task Management Application, built using Flask. It p
 2. **Create a virtual environment:**
    ```
    python -m venv task_managementenv
-   source venv/bin/activate  # On Windows use `task_managementenv\Scripts\activate
+   source task_managementenv/bin/activate  # On Windows use `task_managementenv\Scripts\activate
    ```
 
 3. **Install dependencies:**
